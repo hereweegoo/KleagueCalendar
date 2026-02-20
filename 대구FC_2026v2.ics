@@ -1,0 +1,328 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DaeguFC//Schedule Generator//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 대구 FC 일정
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:e9d1da7de63f8a59ea01bff29bcc2cb33c762c97@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[1R/홈] 대구 vs 화성FC
+DTSTART;TZID=Asia/Seoul:20260301T140000
+DTEND;TZID=Asia/Seoul:20260301T160000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 1라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:5b9081f1aec7663c1cf24fd46db819cb3511d260@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[2R/홈] 대구 vs 전남드래곤즈
+DTSTART;TZID=Asia/Seoul:20260307T163000
+DTEND;TZID=Asia/Seoul:20260307T183000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 2라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:00bd252cc6da12d93dbb85955df4ce242a44ec4c@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[3R/원정] 대구 vs 충남아산FC
+DTSTART;TZID=Asia/Seoul:20260315T140000
+DTEND;TZID=Asia/Seoul:20260315T160000
+LOCATION:이순신종합운동장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS113
+DESCRIPTION:2026 K리그2 3라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS113\n📍 경기장 지도: https://map.naver.com/p/search/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:858124497b980294906e6f29aec57b9e1b1d65ec@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[4R/원정] 대구 vs 부산아이파크
+DTSTART;TZID=Asia/Seoul:20260322T140000
+DTEND;TZID=Asia/Seoul:20260322T160000
+LOCATION:부산구덕운동장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS004
+DESCRIPTION:2026 K리그2 4라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS004\n📍 경기장 지도: https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%EA%B5%AC%EB%8D%95%EC%9A%B4%EB%8F%99%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4245527956344561e70e96e50f449a5b512ca7@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[5R/홈] 대구 vs 서울 이랜드 FC
+DTSTART;TZID=Asia/Seoul:20260329T163000
+DTEND;TZID=Asia/Seoul:20260329T183000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 5라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:6341f173ca9aa4c92bd7d3f414fbd64123955995@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[6R/홈] 대구 vs 김포FC
+DTSTART;TZID=Asia/Seoul:20260405T140000
+DTEND;TZID=Asia/Seoul:20260405T160000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 6라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:4c261fa883ef1fe5ad5f504172e06c40405dc53c@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[7R/원정] 대구 vs 수원FC
+DTSTART;TZID=Asia/Seoul:20260411T140000
+DTEND;TZID=Asia/Seoul:20260411T160000
+LOCATION:수원종합운동장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS061
+DESCRIPTION:2026 K리그2 7라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS061\n📍 경기장 지도: https://map.naver.com/p/search/%EC%88%98%EC%9B%90%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:dc545fd03d4bfae8bc7f2569044c052333dee211@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[8R/홈] 대구 vs 천안시티FC
+DTSTART;TZID=Asia/Seoul:20260418T163000
+DTEND;TZID=Asia/Seoul:20260418T183000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 8라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:be5163bf56cae0d80148eb01f3811bf08082368c@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[10R/홈] 대구 vs 경남FC
+DTSTART;TZID=Asia/Seoul:20260503T140000
+DTEND;TZID=Asia/Seoul:20260503T160000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 10라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:41324b047463c7be88862e9c5401f77b7511c5b7@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[11R/원정] 대구 vs 수원삼성블루윙즈
+DTSTART;TZID=Asia/Seoul:20260509T163000
+DTEND;TZID=Asia/Seoul:20260509T183000
+LOCATION:수원월드컵경기장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS003
+DESCRIPTION:2026 K리그2 11라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS003\n📍 경기장 지도: https://map.naver.com/p/search/%EC%88%98%EC%9B%90%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B2%BD%EA%B8%B0%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:69075fb40ecf0edb341884f0eff1d24d89c1e26e@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[12R/원정] 대구 vs 김해FC2008
+DTSTART;TZID=Asia/Seoul:20260517T163000
+DTEND;TZID=Asia/Seoul:20260517T183000
+LOCATION:김해종합운동장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS230
+DESCRIPTION:2026 K리그2 12라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS230\n📍 경기장 지도: https://map.naver.com/p/search/%EA%B9%80%ED%95%B4%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:0bf0527a9327d48bb132dac9ed136738de44c623@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[13R/홈] 대구 vs 안산 그리너스 FC
+DTSTART;TZID=Asia/Seoul:20260524T170000
+DTEND;TZID=Asia/Seoul:20260524T190000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 13라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:2c201bcca4858466a15217e073a4253083f4811b@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[14R/원정] 대구 vs 용인FC
+DTSTART;TZID=Asia/Seoul:20260530T163000
+DTEND;TZID=Asia/Seoul:20260530T183000
+LOCATION:용인미르스타디움
+URL:https://www.ticketlink.co.kr/sports/138/697
+DESCRIPTION:2026 K리그2 14라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/697\n📍 경기장 지도: https://map.naver.com/p/search/%EC%9A%A9%EC%9D%B8%EB%AF%B8%EB%A5%B4%EC%8A%A4%ED%83%80%EB%94%94%EC%9B%80
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff0fe0aafb3c9d2d49254e58a255c466b49e1d1@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[15R/홈] 대구 vs 파주프런티어FC
+DTSTART;TZID=Asia/Seoul:20260605T193000
+DTEND;TZID=Asia/Seoul:20260605T213000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 15라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:50e0bed44255b4e33ecc96be0fd0d2752080d2b5@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[16R/원정] 대구 vs 충북청주FC
+DTSTART;TZID=Asia/Seoul:20260704T193000
+DTEND;TZID=Asia/Seoul:20260704T213000
+LOCATION:청주종합경기장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS173
+DESCRIPTION:2026 K리그2 16라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS173\n📍 경기장 지도: https://map.naver.com/p/search/%EC%B2%AD%EC%A3%BC%EC%A2%85%ED%95%A9%EA%B2%BD%EA%B8%B0%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:f8fc0d6fba38eb10b0dee3e667c1f2df9e60d1c2@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[17R/홈] 대구 vs 성남FC
+DTSTART;TZID=Asia/Seoul:20260711T193000
+DTEND;TZID=Asia/Seoul:20260711T213000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 17라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:f089bd0c6079d61f2518bb6e5442fcad7b05fb93@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[18R/원정] 대구 vs 김포FC
+DTSTART;TZID=Asia/Seoul:20260718T193000
+DTEND;TZID=Asia/Seoul:20260718T213000
+LOCATION:솔터체육공원축구장
+URL:https://www.ticketlink.co.kr/sports/138/493
+DESCRIPTION:2026 K리그2 18라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/493\n📍 경기장 지도: https://map.naver.com/p/search/%EC%86%94%ED%84%B0%EC%B2%B4%EC%9C%A1%EA%B3%B5%EC%9B%90%EC%B6%95%EA%B5%AC%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:e3dcfc3361966b4fb4472f8caced7a75b1fdd9a8@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[19R/홈] 대구 vs 수원FC
+DTSTART;TZID=Asia/Seoul:20260725T193000
+DTEND;TZID=Asia/Seoul:20260725T213000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 19라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:342d2e67179a3019b57762deb947ebcf17127dc5@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[20R/원정] 대구 vs 화성FC
+DTSTART;TZID=Asia/Seoul:20260801T193000
+DTEND;TZID=Asia/Seoul:20260801T213000
+LOCATION:화성시종합경기타운주경기장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS197
+DESCRIPTION:2026 K리그2 20라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS197\n📍 경기장 지도: https://map.naver.com/p/search/%ED%99%94%EC%84%B1%EC%8B%9C%EC%A2%85%ED%95%A9%EA%B2%BD%EA%B8%B0%ED%83%80%EC%9A%B4%EC%A3%BC%EA%B2%BD%EA%B8%B0%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:5106c90482742bf140da5fb61e91405c91dd0191@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[21R/원정] 대구 vs 경남FC
+DTSTART;TZID=Asia/Seoul:20260807T193000
+DTEND;TZID=Asia/Seoul:20260807T213000
+LOCATION:창원축구센터
+URL:https://www.ticketlink.co.kr/sports/138/88
+DESCRIPTION:2026 K리그2 21라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/88\n📍 경기장 지도: https://map.naver.com/p/search/%EC%B0%BD%EC%9B%90%EC%B6%95%EA%B5%AC%EC%84%BC%ED%84%B0
+END:VEVENT
+BEGIN:VEVENT
+UID:91ceb4e3da96075928b4496a3232b6239fa884fa@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[22R/홈] 대구 vs 충남아산FC
+DTSTART;TZID=Asia/Seoul:20260816T193000
+DTEND;TZID=Asia/Seoul:20260816T213000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 22라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:f61b4ae906ced9b501be53b3124e0a1e62877f78@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[23R/홈] 대구 vs 부산아이파크
+DTSTART;TZID=Asia/Seoul:20260822T193000
+DTEND;TZID=Asia/Seoul:20260822T213000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 23라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:4eecf2ee8391f0c991768e12a193a0e9bc5b2ead@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[24R/원정] 대구 vs 안산 그리너스 FC
+DTSTART;TZID=Asia/Seoul:20260828T193000
+DTEND;TZID=Asia/Seoul:20260828T213000
+LOCATION:안산와~스타디움
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS196
+DESCRIPTION:2026 K리그2 24라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS196\n📍 경기장 지도: https://map.naver.com/p/search/%EC%95%88%EC%82%B0%EC%99%80~%EC%8A%A4%ED%83%80%EB%94%94%EC%9B%80
+END:VEVENT
+BEGIN:VEVENT
+UID:0120827c2f8dd7a4bb4266b1df6dae9e428b6df7@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[25R/원정] 대구 vs 파주프런티어FC
+DTSTART;TZID=Asia/Seoul:20260904T193000
+DTEND;TZID=Asia/Seoul:20260904T213000
+LOCATION:파주스타디움
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002
+DESCRIPTION:2026 K리그2 25라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002\n📍 경기장 지도: https://map.naver.com/p/search/%ED%8C%8C%EC%A3%BC%EC%8A%A4%ED%83%80%EB%94%94%EC%9B%80
+END:VEVENT
+BEGIN:VEVENT
+UID:8b01f1f0e2b938f134e4035db92f4fe4791dd148@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[26R/홈] 대구 vs 용인FC
+DTSTART;TZID=Asia/Seoul:20260912T163000
+DTEND;TZID=Asia/Seoul:20260912T183000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 26라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae997a098f1992b239442ac745a30a35fdc95b5@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[27R/원정] 대구 vs 서울 이랜드 FC
+DTSTART;TZID=Asia/Seoul:20260919T190000
+DTEND;TZID=Asia/Seoul:20260919T210000
+LOCATION:목동종합운동장주경기장
+URL:https://www.ticketlink.co.kr/sports/138/85
+DESCRIPTION:2026 K리그2 27라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/85\n📍 경기장 지도: https://map.naver.com/p/search/%EB%AA%A9%EB%8F%99%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5%EC%A3%BC%EA%B2%BD%EA%B8%B0%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:8120f8fd0f5c8a86077c9cbc339899057381ab2b@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[29R/홈] 대구 vs 충북청주FC
+DTSTART;TZID=Asia/Seoul:20261017T140000
+DTEND;TZID=Asia/Seoul:20261017T160000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 29라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1d9155201de0022e32f31b6e56b336e9efef61@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[30R/원정] 대구 vs 전남드래곤즈
+DTSTART;TZID=Asia/Seoul:20261024T140000
+DTEND;TZID=Asia/Seoul:20261024T160000
+LOCATION:광양축구전용구장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS011
+DESCRIPTION:2026 K리그2 30라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS011\n📍 경기장 지도: https://map.naver.com/p/search/%EA%B4%91%EC%96%91%EC%B6%95%EA%B5%AC%EC%A0%84%EC%9A%A9%EA%B5%AC%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:bb0a9e3d922c5dc47f3f45d78fd16269550d8b8e@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[31R/홈] 대구 vs 수원삼성블루윙즈
+DTSTART;TZID=Asia/Seoul:20261031T163000
+DTEND;TZID=Asia/Seoul:20261031T183000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 31라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:1c47c22e623f7ca3f3d0629aba6e828ab79afec3@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[32R/원정] 대구 vs 성남FC
+DTSTART;TZID=Asia/Seoul:20261107T140000
+DTEND;TZID=Asia/Seoul:20261107T160000
+LOCATION:탄천종합운동장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS093
+DESCRIPTION:2026 K리그2 32라운드\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS093\n📍 경기장 지도: https://map.naver.com/p/search/%ED%83%84%EC%B2%9C%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5
+END:VEVENT
+BEGIN:VEVENT
+UID:ce14c9362852b3399ae670cd966b79650a43bf49@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[33R/홈] 대구 vs 김해FC2008
+DTSTART;TZID=Asia/Seoul:20261122T140000
+DTEND;TZID=Asia/Seoul:20261122T160000
+LOCATION:대구iM뱅크PARK
+URL:https://www.ticketlink.co.kr/sports/138/84
+DESCRIPTION:2026 K리그2 33라운드\n🎟 예매링크: https://www.ticketlink.co.kr/sports/138/84\n📍 경기장 지도: https://map.naver.com/p/search/%EB%8C%80%EA%B5%ACiM%EB%B1%85%ED%81%ACPARK
+END:VEVENT
+BEGIN:VEVENT
+UID:be643562202229322beaa427709fe646600dec26@daegu-fc.local
+DTSTAMP:20260220T111217Z
+SUMMARY:[34R/원정] 대구 vs 천안시티FC
+DTSTART;TZID=Asia/Seoul:20261129T140000
+DTEND;TZID=Asia/Seoul:20261129T160000
+LOCATION:천안종합운동장
+URL:https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS006
+DESCRIPTION:2026 K리그2 34라운드 (현재 시간 미정 - 임시 14:00)\n🎟 예매링크: https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS006\n📍 경기장 지도: https://map.naver.com/p/search/%EC%B2%9C%EC%95%88%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5
+END:VEVENT
+END:VCALENDAR
